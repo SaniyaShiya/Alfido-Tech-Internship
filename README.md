@@ -47,4 +47,4 @@ This project analyzes the Zomato restaurant dataset to identify trends in restau
 ## Files
 
 * `zomato_analysis.ipynb` – Complete notebook
-* `Zomato Restaurant Data Analysis Name Saniya Shiya Internship Data Science Internship-2.pdf` – Charts, insights, and recommendations
+* `Zomato Restaurant Data Analysis` – Charts, insights, and recommendations
