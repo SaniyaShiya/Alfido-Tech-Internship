@@ -70,14 +70,5 @@ This project was completed as part of the **Alfido Tech Internship**. The object
 3. Install the required Python libraries if needed.
 4. Run all cells sequentially to reproduce the analysis.
 
-## Project Structure
 
-```text
-Instagram-Engagement-Analysis/
-│
-├── Instagram_Analysis.ipynb
-├── README.md
-├── Strategy_Document.pdf
-├── images/
-└── Dataset (or Kaggle dataset link)
-```
+
